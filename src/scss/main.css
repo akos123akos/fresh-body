@@ -400,7 +400,7 @@
 .recepies-grid-cont__title {
   font-size: 7dvw;
   text-transform: uppercase;
-  background-image: url("/dist/img/apples-text-bg.jpg");
+  background-image: url("/src/img/apples-text-bg.jpg");
   background-color: #FFE0AB;
   background-size: cover;
   background-position: center;
