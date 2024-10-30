@@ -60,7 +60,7 @@ async function getInstagramFeed() {
                     const postImage = document.createElement('img');
                     postImage.classList.add('desserts__img');
                     postImage.src = post.media_url;
-                    postImage.alt = post.caption;desserts:
+                    postImage.alt = post.caption;
                     postImage.loading = 'lazy';
 
                     const postText = document.createElement('p');
